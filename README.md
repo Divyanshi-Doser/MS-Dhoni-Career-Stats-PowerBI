@@ -53,7 +53,7 @@ This Power BI dashboard is a tribute to the legendary cricketer Mahendra Singh D
 ## 🙌 About Me
 
 I’m a passionate Data Analyst who loves combining sports and data.  
-This dashboard is part of my Power BI portfolio — check out more on my [LinkedIn](https://www.linkedin.com/in/your-profile).
+This dashboard is part of my Power BI portfolio — check out more on my [LinkedIn](https://www.linkedin.com/in/divyanshi-doser).
 
 ---
 
